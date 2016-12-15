@@ -16,7 +16,7 @@ drogba=8;
 % code redundancy.
 char st; char st1; char st2; char st3;
 disp('Project: Voice Recognition and Identification system');
-disp('By  Mahima Garg & Omar Razi & Supriya Phutela & Vaibhav Kapoor & Varun Chopra ');
+disp('By Aas mohammad,Amit Saini & Lokesh Kumar Chaturvedi');
 disp(' ');
 pause(0.5);
 disp('LOADING ');
